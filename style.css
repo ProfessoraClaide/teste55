@@ -1,7 +1,7 @@
 p {
     margin: 50px;
     padding: 10px;
-    line-height: 0.5;      /* reduz espaçamento ao máximo */
+    line-height: 0.1;      /* reduz espaçamento ao máximo */
     text-indent: 50px;
     text-align: center;
 }
