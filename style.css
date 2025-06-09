@@ -1,8 +1,8 @@
 p {
-    margin: 50px;           /* margem ao redor do parágrafo */
-    padding: 10px;          /* espaço interno */
-    line-height: 1.0;       /* deixa as linhas bem próximas */
-    text-indent: 50px;      /* recuo da primeira linha */
-    text-align: center;     /* centraliza o texto */
+    margin: 50px;
+    padding: 10px;
+    line-height: 0.7;      /* reduz espaçamento ao máximo */
+    text-indent: 50px;
+    text-align: center;
 }
 
