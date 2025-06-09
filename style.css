@@ -1,6 +1,7 @@
 p {
-  margin: 50px;         /* Aumenta a margem (espaço fora do parágrafo) */
-  padding: 10px;        /* Espaço interno dentro da borda do parágrafo */
-  line-height: 1.2;     /* Diminui o espaçamento entre linhas */
-  text-indent: 50px;    /* Recuo da primeira linha */
+    margin: 50px;      /* margem maior ao redor do parágrafo */
+    padding: 10px;     /* espaço interno */
+    line-height: 1.2;  /* menor espaçamento entre linhas */
+    text-indent: 50px; /* recuo da primeira linha */
 }
+
