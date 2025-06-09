@@ -6,6 +6,3 @@
     font-size: 14px;
     font-family: Arial, sans-serif;
   }
-  p + p {
-    margin-top: 20px; /* espaçamento entre parágrafos */
-  }
